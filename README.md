@@ -18,5 +18,3 @@ A simple Express application that provides a GET route to return a fictional use
 4. Access the endpoint:
     ```
     http://localhost:3000/user
-
-
